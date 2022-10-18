@@ -1,0 +1,30 @@
+{
+  "name": "ai-image-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolayBang/ai-image-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NicolayBang/ai-image-generator/issues"
+  },
+  "homepage": "https://github.com/NicolayBang/ai-image-generator#readme",
+  "description": "",
+  "dependencies": {
+    "deepai": "^1.0.21",
+    "files": "^2.2.1",
+    "form-data": "^4.0.0",
+    "formidable": "^2.0.1",
+    "multiparty": "^4.2.3",
+    "require": "^2.4.20",
+    "response": "^0.18.0",
+    "sleep-promise": "^9.1.0"
+  }
+}

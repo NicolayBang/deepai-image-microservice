@@ -1,0 +1,3 @@
+# Project exclude paths
+/node_modules/
+/api-key/deep_ai_key.js
